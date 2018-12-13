@@ -1,10 +1,12 @@
-### Welcome to the Cooking Buddy Holistic Educational Webverse!
+# Welcome to the Cooking Buddy Holistic Educational Webverse!
 
 Have you come to be enlightened of the mythical wonders of cooking buddy? I hope so, because you'll experience mystical revelation whether you like it or not.
 
+This is where you'll find a collection of documents relating to the HCI cooking buddy project, including the project video and developmental documents. I hope you're ready to begin an unheralded cooking pilgrimage!
 
-# What is Cooking Buddy?
-Cooking buddy is an app designed to tech inexperienced cooks how to cook while also allowing more advanced cooks advance their skills too. 
+
+## What is Cooking Buddy?
+Cooking buddy is an app that uses **AI ALGORITHMS** to help users, from inexperienced hatchling to wisened cuisinier, advance their cooking skills. 
 
 ```markdown
 Syntax highlighted code block
