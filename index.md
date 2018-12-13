@@ -1,12 +1,10 @@
-## Welcome to Cooking Buddy!
+### Welcome to the Cooking Buddy Holistic Educational Webverse!
 
-You can use the [editor on GitHub](https://github.com/luke-favret/cookingbuddy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Have you come to be enlightened of the mythical wonders of cooking buddy? I hope so, because you'll experience mystical revelation whether you like it or not.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# What is Cooking Buddy?
+Cooking buddy is an app designed to tech inexperienced cooks how to cook while also allowing more advanced cooks advance their skills too. 
 
 ```markdown
 Syntax highlighted code block
