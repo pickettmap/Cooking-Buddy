@@ -1,5 +1,5 @@
 # Welcome to the Cooking Buddy Holistic Educational Webverse!
-[Contact](https://github.com/luke-favret/Cooking-Buddy/blob/master/index.md#cooking-buddy-circle-leaders) || [Files](https://luke-favret.github.io/Cooking-Buddy/) || [Figma & Final Video]
+[Contact](https://github.com/luke-favret/Cooking-Buddy/blob/master/index.md#cooking-buddy-circle-leaders) || [Files](https://luke-favret.github.io/Cooking-Buddy/) || [Figma & Final Video](https://github.com/luke-favret/Cooking-Buddy/blob/master/index.md#cooking-buddy-figma--video)
 
 Have you come to be enlightened of the mythical wonders of cooking buddy? I hope so, because you'll experience mystical revelation whether you like it or not.
 
