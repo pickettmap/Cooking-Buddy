@@ -23,6 +23,6 @@ Mikayla Pickett
 mipi6515@colorado.edu
 
 ### Cooking Buddy Files:
-
+All files are in 
 
 ### Cooking Buddy Final Versions:
