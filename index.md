@@ -40,3 +40,5 @@ Listed links:
 [6 - Final Storyboard.pdf](https://github.com/luke-favret/Cooking-Buddy/blob/master/Cooking%20Buddy%20Files/6%20-%20Final%20Storyboard.pdf)
 
 ### Cooking Buddy Figma & Video:
+[Figma Demo](https://www.figma.com/proto/aUmgnrlAme9eZp8R4sqzqa6g/Main?node-id=15%3A2&scaling=min-zoom)
+[Figma Project](https://www.figma.com/file/aUmgnrlAme9eZp8R4sqzqa6g/Main?node-id=0%3A1)
