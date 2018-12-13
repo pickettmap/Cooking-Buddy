@@ -24,6 +24,7 @@ mipi6515@colorado.edu
 
 ### Cooking Buddy Files:
 All files are in this [GitHub folder](https://github.com/luke-favret/Cooking-Buddy/tree/master/Cooking%20Buddy%20Files)
+
 Listed links:
 		
 [2 - Project Plan.pdf](https://github.com/luke-favret/Cooking-Buddy/blob/master/Cooking%20Buddy%20Files/2%20-%20Project%20Plan.pdf)
