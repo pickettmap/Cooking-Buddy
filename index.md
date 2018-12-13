@@ -41,4 +41,5 @@ Listed links:
 
 ### Cooking Buddy Figma & Video:
 [Figma Demo](https://www.figma.com/proto/aUmgnrlAme9eZp8R4sqzqa6g/Main?node-id=15%3A2&scaling=min-zoom)
+
 [Figma Project](https://www.figma.com/file/aUmgnrlAme9eZp8R4sqzqa6g/Main?node-id=0%3A1)
