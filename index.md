@@ -39,4 +39,4 @@ Listed links:
 
 [6 - Final Storyboard.pdf](https://github.com/luke-favret/Cooking-Buddy/blob/master/Cooking%20Buddy%20Files/6%20-%20Final%20Storyboard.pdf)
 
-### Cooking Buddy Final Versions:
+### Cooking Buddy Figma & Video:
