@@ -23,6 +23,19 @@ Mikayla Pickett
 mipi6515@colorado.edu
 
 ### Cooking Buddy Files:
-All files are in 
+All files are in this [GitHub folder](https://github.com/luke-favret/Cooking-Buddy/tree/master/Cooking%20Buddy%20Files)
+Listed links:
+		
+[2 - Project Plan.pdf](https://github.com/luke-favret/Cooking-Buddy/blob/master/Cooking%20Buddy%20Files/2%20-%20Project%20Plan.pdf)
+
+[3 - Design Research.pdf](https://github.com/luke-favret/Cooking-Buddy/blob/master/Cooking%20Buddy%20Files/3%20-%20Design%20Research.pdf)
+
+[4 - Paper Prototype.pdf](https://github.com/luke-favret/Cooking-Buddy/blob/master/Cooking%20Buddy%20Files/4%20-%20Paper%20Prototype.pdf)
+
+[5 - Usability Testing & Heuristic Evaluation.pdf](https://github.com/luke-favret/Cooking-Buddy/blob/master/Cooking%20Buddy%20Files/5%20-%20Usability%20Testing%20%26%20Heuristic%20Evaluation.pdf)
+
+[6 - Final Prototype UI Documentation.pdf](https://github.com/luke-favret/Cooking-Buddy/blob/master/Cooking%20Buddy%20Files/6%20-%20Final%20Prototype%20UI%20Documentation.pdf)
+
+[6 - Final Storyboard.pdf](https://github.com/luke-favret/Cooking-Buddy/blob/master/Cooking%20Buddy%20Files/6%20-%20Final%20Storyboard.pdf)
 
 ### Cooking Buddy Final Versions:
