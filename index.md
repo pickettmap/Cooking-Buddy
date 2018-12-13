@@ -11,12 +11,13 @@ Cooking buddy is an app that uses **AI ALGORITHMS** to help users, from inexperi
 ### Cooking Buddy Circle Leaders:
 Luke Favret
 
-
 Luke.Favret@colorado.edu
 
 Musaab Al Bakry
+
 mual3221@colorado.edu
 
 Mikayla Pickett
+
 mipi6515@colorado.edu
 
