@@ -1,5 +1,5 @@
 # Welcome to the Cooking Buddy Holistic Educational Webverse!
-
+[Contact](https://github.com/luke-favret/Cooking-Buddy/blob/master/index.md#cooking-buddy-circle-leaders)
 Have you come to be enlightened of the mythical wonders of cooking buddy? I hope so, because you'll experience mystical revelation whether you like it or not.
 
 This is where you'll find a collection of documents relating to the HCI cooking buddy project, including the project video and developmental documents. I hope you're ready to begin an unheralded cooking pilgrimage!
